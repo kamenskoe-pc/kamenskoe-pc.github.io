@@ -1,0 +1,13 @@
+.freebirdFormviewerViewNavigationPasswordWarning{
+    display:none;
+}
+
+.over{
+    background: #EBF5FB;
+    width: 100%;
+    height: 150px;
+    position: absolute;
+    bottom: 0;
+    left:0;
+    z-index: 111111;
+}
